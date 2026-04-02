@@ -1,0 +1,10 @@
+{
+  "history": [
+    {
+      "Timestamp": "2026-04-02T15:36:02.593989+05:30",
+      "User": "8R17B44\\k64121947",
+      "Title": "Important Safety Notes",
+      "Note": "There is a HIGH DC Voltage Channel in this PSB with max +99VDC for braking purpose. Need to study before first use."
+    }
+  ]
+}
