@@ -1,0 +1,29 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "SMPSB 24V@6A ",
+        "PN": "WSBZ210-2AAC/KM51906613G01",
+        "MF": "CHINA"
+      },
+      "MID": "MID20347",
+      "MD": "WSBZ210-2AAC or KM51906613G01 is a 24V@6A SMPS Board.\r\nInput: 200-240V ~8A Max 50/60Hz\r\nOutput:\r\n24V @2.5A Max (CH1)\r\n24V @6.25A Max (CH2)\r\nNote: Refer AF1 for Design related Specs & Documents.\r\n\r\n",
+      "MT": "Design/Module",
+      "MQNT": 2,
+      "MCost": 1600.0,
+      "MQATG": "#CLASS_1",
+      "ML": "",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20347%2Fmain%2FPSB_V1.5_datasheet.pdf",
+      "MAF1": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20347%2Fmain%2FPSB_Power%20Supply%20Board.zip",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20347/main/WhatsApp Image 2026-04-02 at 3.28.51 PM (1).jpeg",
+        "https://raw.githubusercontent.com/mylab2025/MID20347/main/WhatsApp Image 2026-04-02 at 3.28.51 PM.jpeg"
+      ]
+    }
+  ]
+}
