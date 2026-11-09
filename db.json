@@ -12,7 +12,7 @@
       "MQNT": 2,
       "MCost": 1600.0,
       "MQATG": "#CLASS_1",
-      "ML": "",
+      "ML": "300",
       "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20347%2Fmain%2FPSB_V1.5_datasheet.pdf",
       "MAF1": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20347%2Fmain%2FPSB_Power%20Supply%20Board.zip",
       "MAF2": "",
